@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceman", "Spaceman\Spaceman.csproj", "{986B0337-74F1-4284-99D8-20A02E9DAADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986B0337-74F1-4284-99D8-20A02E9DAADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986B0337-74F1-4284-99D8-20A02E9DAADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986B0337-74F1-4284-99D8-20A02E9DAADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986B0337-74F1-4284-99D8-20A02E9DAADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEDB8DF2-49BA-4F65-98E3-BB1FED896B0D}
+	EndGlobalSection
+EndGlobal
